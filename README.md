@@ -47,8 +47,7 @@ These are the websites with some kind of track record, but there is also <a href
 
 <br />
 
-<!--After all those learning experiences, I eventually started writing some interesting code.--> 
-My <a href="https://exercism.org/profiles/massartval">Exercism</a> profile shows my most recent progress: I found this website at a time when I was feeling a bit overwhelmed, and it has greatly helped me consolidate my javascript learnings. I am quite proud of my <a href="https://exercism.org/tracks/javascript/exercises/poker/solutions/massartval">Poker</a> algorithm, for instance. 
+After all those learning experiences, I eventually started writing some interesting code. I take pride in writing code that is easily readable, with meaningful variable names and useful comments (comments that explain why, and not what). My <a href="https://exercism.org/profiles/massartval">Exercism</a> profile shows my most recent progress. I found this platform at a time when I got a bit overwhelmed while building my first real-world project (a music school website that I am currently working on), and it has greatly helped me improve my understanding of javascript (and of programming concepts in general). I am quite proud of my <a href="https://exercism.org/tracks/javascript/exercises/poker/solutions/massartval">Poker</a> algorithm, for instance. 
 
 <br />
 
