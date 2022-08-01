@@ -2,14 +2,13 @@
 
 I am Valentin Massart, a junior web developer with a passion for learning and sharing knowledge. I am also a musician and a scouting enthousiast. 
 
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/massartval/">
 <img align="left" alt="LinkedIn profile" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> Let's get in touch :)
 </a>
 
 <br>
-
 <br>
 
 In 2020, I started learning programming online. I also resumed learning Dutch and Russian. Here you can find a sample of the learning paths that I have walked until today. 
@@ -45,11 +44,19 @@ In 2020, I started learning programming online. I also resumed learning Dutch an
 
 These are the websites with some kind of track record, but there is also <a href = "https://www.theodinproject.com/">The Odin Project</a>, <a href="https://openclassrooms.com/en/members/53kkct2pjw26">Open Classrooms</a>, <a href="https://www.enki.com/">Enki</a>, <a href="https://play.google.com/store/apps/details?id=com.askills.edu.ethical.hacking.university&hl=fr&gl=US">Ethical Hacking University</a>, <a href="https://www.coursera.org/user/cfec59a1b5c8a152ad682a7081f5732f">Coursera</a>, <a href="https://learn.skillcrush.com/classes/skillcrush-free-coding-camp/">Skill Crush</a>, and more... 
 
-<br />
+<br>
 
-After all those learning experiences, I eventually started writing some interesting code. I take pride in writing code that is DRY, easily readable and highly reusable, with meaningful variable names and useful comments (comments that explain why, and not what). My <a href="https://exercism.org/profiles/massartval">Exercism</a> profile shows my most recent progress. I found this platform at a time when I got a bit overwhelmed while building my first real-world project (a music school website that I am currently working on), and it has greatly helped me improve my understanding of javascript (and of programming concepts in general). Although they are quite simple, I am rather proud of my <a href="https://exercism.org/tracks/javascript/exercises/poker/solutions/massartval">Poker</a> algorithm (picks the winning hand(s) given an array of hands), as well as my <a href="https://exercism.org/tracks/javascript/exercises/say/solutions/massartval">Say</a> program (spells out numbers between 0 and 999 billion). 
+After all those learning experiences, I eventually started writing some interesting code. I take pride in writing code that is DRY, easily readable and highly reusable, with meaningful variable names and useful comments (comments that explain why, and not what). 
 
-<br />
+<br>
+
+My <a href="https://exercism.org/profiles/massartval">Exercism</a> profile shows my most recent progress. I found this platform at a time when I got a bit overwhelmed while building my first real-world project (a music school website that I am currently working on), and it has greatly helped me improve my understanding of javascript (and of programming concepts in general). Although they are quite simple, I am rather proud of my <a href="https://exercism.org/tracks/javascript/exercises/poker/solutions/massartval">Poker</a> algorithm (picks the winning hand(s) given an array of hands), as well as my <a href="https://exercism.org/tracks/javascript/exercises/say/solutions/massartval">Say</a> program (spells out numbers between 0 and 999 billion). 
+
+<br>
+
+I am currently working on the <a href="https://www.freecodecamp.org/learn/relational-database/">database certification</a> on freecodecamp.org. 
+
+<br>
 
 <!-- https://medium.com/@saketprag322/customize-your-github-landing-page-cad846575bea -->
 
